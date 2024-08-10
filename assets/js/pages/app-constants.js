@@ -1,0 +1,1 @@
+local_local="http://localhost:8000/",live_live=BASE_URL="https://nu-payment-server-web.vercel.app";
